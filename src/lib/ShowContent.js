@@ -18,3 +18,4 @@ export default WrappedComponent => props => (
     </CMSContext.Consumer>
   </ContentProvider>
 )
+
