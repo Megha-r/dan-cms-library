@@ -1,6 +1,6 @@
 
 
-import WrappedComponent from './ShowContent'
+import CMSComponent from './ShowContent'
 
-export default WrappedComponent
+export default CMSComponent
 
